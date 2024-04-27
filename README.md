@@ -1,4 +1,5 @@
-This repository deals with basic blur detection using Logistic regression.
+# blurdetection
+This repository does basic blur detection using Logistic regression.
 Train data is divided into 2 folders (sharp and blurry), paste sharp pics into sharp folder and blurry pics
 in blurry folder.
 
